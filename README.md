@@ -28,6 +28,7 @@ Exemplo em pseudocódigo: cubo[2][3][1] = 100; cubo[0][1][2] = 42;
 Abaixo, estão exemplos do funcionamento de um vetor e uma matriz em Java:
 
 Vetor:
+
 '''
 package lista5;
 import java.util.Scanner;
@@ -54,9 +55,11 @@ public class exercicio1 {
 	}
 
 }
+
 '''
 
 Matriz:
+
 '''
 package lista5;
 import java.util.Scanner;
@@ -86,4 +89,5 @@ public class exemplo {
 
 	}
 }
+
 '''
